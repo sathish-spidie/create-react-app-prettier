@@ -29,7 +29,6 @@ Use this [code](https://gist.github.com/sathish-spidie/999118ba64e0b4e5ba36bd356
     "js"
   ],
   "files.autoSave": "onFocusChange",
-  // It fixes some wired {" "} stufs in code.
   "eslint.validate": [
     "javascript",
     "javascriptreact",
