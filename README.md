@@ -17,7 +17,7 @@ Use this [code](https://gist.github.com/sathish-spidie/999118ba64e0b4e5ba36bd356
 
 ### AND Paste this code in settings.json in your vscode.
 
-`{
+`js{
   "editor.formatOnSave": true,
   "[javascript]": {
     "editor.formatOnSave": false
