@@ -17,7 +17,8 @@ Use this [code](https://gist.github.com/sathish-spidie/999118ba64e0b4e5ba36bd356
 
 ### AND Paste this code in settings.json in your vscode.
 
-```{
+```
+{
   "editor.formatOnSave": true,
   "[javascript]": {
     "editor.formatOnSave": false
@@ -35,7 +36,10 @@ Use this [code](https://gist.github.com/sathish-spidie/999118ba64e0b4e5ba36bd356
     { "language": "typescript", "autoFix": true },
     { "language": "typescriptreact", "autoFix": true }
   ]
-}```
+}
+```
+
+### That's it you're Ready to go now But don't forget do Add Extenstions!
 
 
 
