@@ -1,7 +1,3 @@
-## Just Click use this template button
-
-## OR
-
 ## Adding prettier without ejecting "react-script" With VScode.
 
 ## Extenstion Requirements
